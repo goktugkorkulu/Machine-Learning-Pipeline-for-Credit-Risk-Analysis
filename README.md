@@ -26,4 +26,4 @@ Hyperparameter tuning is performed for each algorithm to optimize their performa
 
 ## Experiments
 
-The project conducts experiments to evaluate the performance of the implemented algorithms. The results of hyperparameter tuning and model validation are analyzed. Learning curves, accuracy and loss curves, and summary tables are provided to showcase the
+The project conducts experiments to evaluate the performance of the implemented algorithms. The results of hyperparameter tuning and model validation are analyzed. Learning curves, accuracy and loss curves, and summary tables are provided.
